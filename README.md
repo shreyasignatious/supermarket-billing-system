@@ -18,19 +18,3 @@ It allows the user to select items, enter quantities, and generates a final bill
 3.Run the program:
   python supermarket_bill.py
 
-Sample Output:
-
-=========================== SHREYAS ESSENTIALS ===========================
-                                LB-NAGAR
-NAME: VISHAL                                     DATE: 31-08-2025 22:15:00
---------------------------------------------------------------------------
-S.No   ITEM                 QUANTITY                                 PRICE
-1      RICE                    2                                  Rs 40.00
----------------------------------------------------------------------------
-                                                    TOTAL AMOUNT: Rs 120.00
-                                                        GST (5%): Rs 6.00
----------------------------------------------------------------------------
-                                                    FINAL AMOUNT: Rs 126.00
----------------------------------------------------------------------------
-                          THANK YOU FOR VISITING!
----------------------------------------------------------------------------
